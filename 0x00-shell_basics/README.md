@@ -6,3 +6,4 @@ The following files will contain answers to:
  - 4-listmorefiles -Display current directory contents, including hidden files (starting with .). Using the long format.
  - 5-listfilesdigitonly - Display Directory long format, with UID and GID an hidden files.
  - 6-firstdirectory - Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+ - 7-movethatfile - Move the file betty from /tmp/ to /tmp/my_first_directory.

@@ -9,3 +9,4 @@ About file permissions
 	- 7-everybody - adds execution permission to the owner, the group owner and the other users, to the file hello in working directory without using commas.
 	- 8-James_Bond - set permission to file hello (in working directory) to none for owner and group and all from others
 	- 9-John_Doe- set permission to file hello in working direcotory to -rwxr-x-wx without using commas
+	- 10-mirror_permissions - Copy permissions from the file olleh to the file hello

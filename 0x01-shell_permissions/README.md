@@ -11,3 +11,4 @@ About file permissions
 	- 9-John_Doe- set permission to file hello in working direcotory to -rwxr-x-wx without using commas
 	- 10-mirror_permissions - Copy permissions from the file olleh to the file hello
 	- 11-directories_permissions - add execute permission in all subderectories execept files
+	- 12-directory_permissions - create a diretory named my_dir with 751 permissions

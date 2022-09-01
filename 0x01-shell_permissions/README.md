@@ -7,3 +7,4 @@ About file permissions
 	- 5-execute - adds execute permission to the owner of the file hello on working directory
 	- 6-multiple_permissions - adds execute permission to the owner and the group owner, and read permission to other users, to the file hello in working directory
 	- 7-everybody - adds execution permission to the owner, the group owner and the other users, to the file hello in working directory without using commas.
+	- 8-James_Bond - set permission to file hello (in working directory) to none for owner and group and all from others

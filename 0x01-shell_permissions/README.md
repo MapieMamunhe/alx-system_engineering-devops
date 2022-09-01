@@ -10,3 +10,4 @@ About file permissions
 	- 8-James_Bond - set permission to file hello (in working directory) to none for owner and group and all from others
 	- 9-John_Doe- set permission to file hello in working direcotory to -rwxr-x-wx without using commas
 	- 10-mirror_permissions - Copy permissions from the file olleh to the file hello
+	- 11-directories_permissions - add execute permission in all subderectories execept files

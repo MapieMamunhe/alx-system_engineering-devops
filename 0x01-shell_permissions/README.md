@@ -12,3 +12,4 @@ About file permissions
 	- 10-mirror_permissions - Copy permissions from the file olleh to the file hello
 	- 11-directories_permissions - add execute permission in all subderectories execept files
 	- 12-directory_permissions - create a diretory named my_dir with 751 permissions
+	- 13-change_group - changes the group owner to school for the file hello in working directory

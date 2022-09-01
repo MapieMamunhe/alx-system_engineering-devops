@@ -4,3 +4,4 @@ About file permissions
 	- 2-groups - show the groups of current user
 	- 3-new_owner - change the owner of the hello file to betty
 	- 4-empty - creates an empty file named empty
+	- 5-execute - adds execute permission to the owner of the file hello on working directory
